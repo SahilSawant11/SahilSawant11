@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m @SahilSawant11 👋
 
-<!--
-**SahilSawant11/SahilSawant11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 I’m interested in ...
+- Software testing and QA automation
+- Building robust applications using Java and Spring Boot
+- Exploring DevOps practices like CI/CD pipelines and containerization
+- Frontend development using React Native
+- Cloud platforms like AWS and GCP for scalable deployments
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning ...
+- Advanced Selenium with Java for test automation
+- API testing using Postman and RestAssured
+- Monitoring and observability tools like Grafana and Prometheus
+- Docker and Kubernetes for containerized applications
+- Setting up CI/CD pipelines with Jenkins and GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💞️ I’m looking to collaborate on ...
+- Automation testing projects using Selenium and Java
+- Developing scalable backend systems with Spring Boot
+- Implementing DevOps pipelines for testing and deployments
+- Open-source tools for QA automation and DevOps workflows
+
+## 📫 How to reach me ...
+- Email: cr7sahilsawant@gmail.com
+- LinkedIn: [Sahil Sawant](https://www.linkedin.com/in/SahilSawant11/)
+- GitHub: [@SahilSawant11](https://github.com/SahilSawant11)
