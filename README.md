@@ -21,6 +21,6 @@
 - Open-source tools for QA automation and DevOps workflows
 
 ## 📫 How to reach me ...
-- Email: cr7sahilsawant@gmail.com
+- Email: sahil.scipl@gmail.com
 - LinkedIn: [Sahil Sawant](https://www.linkedin.com/in/SahilSawant11/)
 - GitHub: [@SahilSawant11](https://github.com/SahilSawant11)
