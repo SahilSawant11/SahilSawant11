@@ -1,37 +1,49 @@
-# Sahil Sawant
+<!-- Header -->
+<h1 align="center">hey, I'm Sahil 👋</h1>
 
-**Automation Engineer | Mobile Application Developer**
+<p align="center">
+  React Native developer crafting cross-platform mobile experiences for iOS & Android.
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
 
-Currently working as an Automation Engineer, I specialize in building test automation frameworks and mobile applications. My focus is on creating robust, user-centric apps while ensuring quality through comprehensive test automation.
+---
 
-## Technical Focus
+### about me
 
-**Mobile Development**
-- React Native for cross-platform applications
-- Kotlin & Jetpack Compose for Android development
+- 📱 building mobile apps for **consumers & enterprises**
+- ⚡ currently leveling up in **React Native** + **TypeScript**
+- 🧠 always exploring — clean code, smooth UX, real products
+- 📍 based in India
 
-**Test Automation**
-- Mobile app automation using Appium
-- Web automation with Selenium and Java
-- API testing with Postman and RestAssured
-- Performance monitoring with Grafana and Prometheus
+---
 
-## Currently Learning
+### tech stack
 
-- Kotlin and Jetpack Compose
-- React Native architecture patterns
-- Advanced Appium frameworks
+| Mobile | Language | Backend |
+|--------|----------|---------|
+| React Native | TypeScript | Supabase |
 
-## Open to Collaborate
+---
 
-- Mobile application projects (React Native, Kotlin)
-- Test automation frameworks and tools
-- Open-source testing utilities
+### currently
 
-## Connect
+- 🔨 building & shipping mobile apps
+- 📖 deepening my knowledge of RN architecture & performance
+- 🤝 open to collabs, projects & opportunities
 
-📧 sahil.scipl@gmail.com  
-💼 [linkedin.com/in/SahilSawant11](https://www.linkedin.com/in/SahilSawant11/)  
-💻 [github.com/SahilSawant11](https://github.com/SahilSawant11)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil&layout=compact&theme=default&hide_border=true&langs_count=5" />
+</p>
+
+---
+
+<p align="center">
+  <i>let's build something people actually use.</i>
+</p>
