@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:bdbdbd&height=100&section=header&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:1a9e6a&height=100&section=header&fontSize=0" />
 
 # Sahil Sawant
 
@@ -61,4 +61,4 @@ Tooling     →   ESLint · Prettier · Git
   <sub>let's build something people actually use.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bdbdbd,100:e0e0e0&height=60&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a9e6a,100:3ECF8E&height=60&section=footer&fontSize=0" />
